@@ -1,14 +1,14 @@
-town,area,price
-monore township,2600,550000
-monore township,3000,565000
-monore township,3200,610000
-monore township,3600,680000
-monore township,4000,725000
-west wind,2600,585000
-west wind,2800,615000
-west wind,3300,650000
-west wind,3600,710000
-robbinsviile,2600,575000
-robbinsviile,2900,600000
-robbinsviile,3100,620000
-robbinsviile,3600,695000
+area,price
+2600,55
+3000,565
+3200,61
+3600,68
+4000,725
+2600,585
+2800,615
+3300,65
+3600,71
+2600,575
+2900,6
+3100,62
+3600,695
